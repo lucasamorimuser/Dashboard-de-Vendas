@@ -37,4 +37,5 @@ O Expresso tem o pior desempenho de vendas. Cabe avaliação de estratégias de 
 
 ### Dados
 
+Origem dos dados - https://www.kaggle.com/datasets/sidraaazam/coffee-sales-insights-report
 
