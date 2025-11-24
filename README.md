@@ -14,7 +14,7 @@ PowerBi - Ferramenta de elaboração e análise gráfica
 
 Importação dos dados no formato .CSV
 
-Confecção de gráficos:
+Contrução de gráficos:
 
  - De linha para análise de faturamento de venda de cada produto ao longo do tempo;
  - De donuts para a contribuição percentual de cada produto no faturamento total;
